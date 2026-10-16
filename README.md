@@ -6,7 +6,7 @@
 > - Graduação: 📈Ciências Econômicas (2023)
 
 ### Cursos
-> - [Alura](https://github.com/leonippon/leonippon/blob/main/ALURA.md)
+> - 
 
 ### Certificações
 > - Ancord: Agente Autônomo de Investimentos (2021)
@@ -14,7 +14,7 @@
 ### 📖Idiomas:
 > - 🇧🇷Português Brasileiro (Nativo)
 > - 🇺🇸English
-> - Español
+> - 🇺🇾Español
 
 ### Linguagens
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
